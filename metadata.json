@@ -1,0 +1,6 @@
+{
+  "name": "PLAY & WIN BD",
+  "description": "বাংলাদেশের ১২টি সিঙ্গেল প্লেয়ার আর্কেড, পাজল ও বোর্ড গেমের প্ল্যাটফর্ম — খেলুন, হাই স্কোর গড়ুন এবং রিওয়ার্ড পয়েন্ট জিতুন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
